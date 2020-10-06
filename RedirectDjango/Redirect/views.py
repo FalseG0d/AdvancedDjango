@@ -13,3 +13,12 @@ def home(request):
 def objects(request):
     record=Record.objects.get(name="Apoorv")
     return redirect(record,permanent=True)
+
+def record(request,pk):
+    record=Record.objects.get(id=pk)
+
+    context={
+        'record':record,
+    }
+
+    return render(request,"record.html",context)
