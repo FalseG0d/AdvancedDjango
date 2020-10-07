@@ -16,6 +16,11 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 * [Python](http://www.dropwizard.io/1.0.2/docs/) - Programing Language
 * [Django](https://maven.apache.org/) - Framework
 
+## Video Lectures
+
+* [Redirect](https://www.youtube.com/playlist?list=PLSPMgrv4IuJ6jm66M2rSZM_qIakywFoIr) - Lecture 1
+* [Humanize](#) - Lecture 2
+
 ## Authors
 
 * **False God** - *Initial work* - [FalseG0d](https://github.com/FalseG0d)
