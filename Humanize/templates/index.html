@@ -1,0 +1,22 @@
+{% load humanize %}
+<h1>Not Humanized</h1>
+{% for record in records %}
+<h3>{{record.appnumber}}</h3>
+<h3>{{record.intcomma}}</h3>
+<h3>{{record.intword}}</h3>
+<h3>{{record.naturalday}}</h3>
+<h3>{{record.naturaltime}}</h3>
+<h3>{{record.ordinal}}</h3><br><br>
+<br>
+{% endfor %}
+<br><br>
+<h1>Humanized</h1>
+{% for record in records %}
+<h3>{{record.appnumber|apnumber}}</h3>
+<h3>{{record.intcomma|intcomma}}</h3>
+<h3>{{record.intword|intword}}</h3>
+<h3>{{record.naturalday|naturalday}}</h3>
+<h3>{{record.naturaltime|naturaltime}}</h3>
+<h3>{{record.ordinal|ordinal}}</h3><br><br>
+<br>
+{% endfor %}
