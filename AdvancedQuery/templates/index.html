@@ -1,0 +1,40 @@
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    
+    th, td {
+      padding: 10px;
+    }
+    </style>
+<table>
+    <tbody>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    {% for cheese in cheese_1 %}
+      <tr>
+        <td>{{ cheese.id }}</td>
+        <td>{{ cheese.name }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+<br><br>
+  <table>
+    <tbody>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Place</th>
+        </tr>
+    {% for cheese in cheese_2 %}
+      <tr>
+        <td>{{ cheese.id }}</td>
+        <td>{{ cheese.name }}</td>
+        <td>{{ cheese.place.name }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
