@@ -1,0 +1,10 @@
+{% for story in stories %}
+
+<h2>{{story.title}}</h2>
+<h3>Published At:- {{story.created_at}} Last Update:- {{story.updated_at}}</h3>
+
+<p>{{story.body}}</p>
+
+<h3>By:- {{story.author}}</h3>
+<br><br>
+{% endfor %}
