@@ -1,0 +1,14 @@
+<h3>Add Form</h3>
+<form action="save" method="POST">
+    {% csrf_token %}
+    <input type="text" name="name">
+    <input type="text" name="item">
+    <input type="text" name="price">
+    <input type="submit">
+</form>
+
+{% for order in orders %}
+<h3>{{order.customer_name}}</h3>
+<h3>{{order.item}}</h3>
+<h3>{{order.price}}</h3>
+{% endfor %}

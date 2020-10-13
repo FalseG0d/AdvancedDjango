@@ -11,6 +11,11 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 1. Python
 2. Django
 
+## Admin ID Password
+
+1. Username:-Apoorv
+2. Username:-password
+
 ## Built With
 
 * [Python](http://www.dropwizard.io/1.0.2/docs/) - Programing Language
@@ -20,6 +25,8 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 
 * [Redirect](https://www.youtube.com/playlist?list=PLSPMgrv4IuJ6jm66M2rSZM_qIakywFoIr) - Lecture 1
 * [Humanize](https://youtu.be/i-1UXTp2Onk) - Lecture 2
+* [Advanced Django Query](https://youtu.be/zjHLWkdSv1E) - Lecture 3
+* [Automatic Date Time Field](https://youtu.be/FTMORnzf3-I) - Lecture 4
 
 ## Authors
 
