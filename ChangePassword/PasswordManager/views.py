@@ -5,16 +5,16 @@ from django.shortcuts import render, redirect
 
 def change_password(request):
     if request.method == 'POST':
-        form = PasswordChangeForm(request.user, request.POST)
+        form = PasswordChangeForm(user=request.user,data=request.POST)
         if form.is_valid():
-            user = form.save()
-            update_session_auth_hash(request, user)  # Important!
-            messages.success(request, 'Your password was successfully updated!')
-            return redirect('change_password')
+            form.save()
+            #update_session_auth_hash(request,form.user)
+            return redirect('/admin')
         else:
             messages.error(request, 'Please correct the error below.')
+            return redirect('/change-password')
     else:
-        form = PasswordChangeForm(request.user)
-    return render(request, 'changepassword.html', {
-        'form': form
-    })
+        form = PasswordChangeForm(user=request.user)
+        return render(request, 'changepassword.html', {
+            'form': form
+        })
