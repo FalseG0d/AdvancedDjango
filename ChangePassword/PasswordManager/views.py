@@ -8,7 +8,7 @@ def change_password(request):
         form = PasswordChangeForm(user=request.user,data=request.POST)
         if form.is_valid():
             form.save()
-            #update_session_auth_hash(request,form.user)
+            update_session_auth_hash(request,form.user)
             return redirect('/admin')
         else:
             messages.error(request, 'Please correct the error below.')
