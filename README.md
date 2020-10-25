@@ -23,10 +23,17 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 
 ## Video Lectures
 
-* [Redirect](https://www.youtube.com/playlist?list=PLSPMgrv4IuJ6jm66M2rSZM_qIakywFoIr) - Lecture 1
+* [Redirect](https://youtu.be/YsHd-l7QdI8) - Lecture 1
 * [Humanize](https://youtu.be/i-1UXTp2Onk) - Lecture 2
 * [Advanced Django Query](https://youtu.be/zjHLWkdSv1E) - Lecture 3
 * [Automatic Date Time Field](https://youtu.be/FTMORnzf3-I) - Lecture 4
+* [Merge Query Sets](https://youtu.be/0-NMAtb8txE) - Lecture 5
+* [Get Create](https://youtu.be/sWuZla1w3D4) - Lecture 6
+* [Get Current URL](https://youtu.be/d3So0GZ13f8) - Lecture 7
+* [Blank Or Null](https://youtu.be/UlkPvEYQqps) - Lecture 8
+* [Change Password](https://youtu.be/00sdVcuYki0) - Lecture 9
+* [Custom Login And Register](https://youtu.be/sD97NMs1l9s) - Lecture 10
+* [Chain Multiple Query Sets](https://youtu.be/WskpiwQrmTA) - Lecture 11
 
 ## Authors
 
