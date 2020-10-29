@@ -97,7 +97,7 @@ pip install django
 
 Your Name - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
 
-Project Link: [https://github.com/FalseG0d/PyQt5DownloadManager](https://github.com/FalseG0d/PyQt5DownloadManager)
+Project Link: [https://github.com/FalseG0d/AdvancedDjango](https://github.com/FalseG0d/AdvancedDjango)
 
 ## License
 
@@ -112,9 +112,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/FalseG0d/AdvancedDjango.svg?style=flat-square
+[contributors-url]: https://github.com/FalseG0d/AdvancedDjango/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/FalseG0d/AdvancedDjango.svg?style=flat-square
+[forks-url]: https://github.com/FalseG0d/AdvancedDjango/network/members
 [stars-shield]: https://img.shields.io/github/stars/FalseG0d/AdvancedDjango.svg?style=flat-square
+[stars-url]: https://github.com/FalseG0d/AdvancedDjango/stargazers
 [issues-shield]: https://img.shields.io/github/issues/FalseG0d/AdvancedDjango.svg?style=flat-square
+[issues-url]: https://github.com/FalseG0d/AdvancedDjango/issues
 [license-shield]: https://img.shields.io/github/license/FalseG0d/AdvancedDjango.svg?style=flat-square
+[license-url]: https://github.com/FalseG0d/AdvancedDjango/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
 [product-screenshot]: images/programs.png
