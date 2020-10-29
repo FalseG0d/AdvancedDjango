@@ -34,6 +34,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+[![Product Name Screen Shot][product-screenshot]]
+
 * [Getting Started](#getting-started)
 * [Prerquisites](#prerquisites)
 * [Admin ID Password](#admin-id-password)
