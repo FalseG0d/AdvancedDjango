@@ -1,15 +1,67 @@
 # Advanced Django
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-A List of Django Apps using some of the lesser known features of Django aimed to teach the Users the transition between a novice and advanced Django Developer.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="http://apoorvgarg.herokuapp.com/">
+    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Made By FalseG0d</h3>
+
+  <p align="center">
+    A List of Django Apps using some of the lesser known features of Django aimed to teach the Users the transition between a novice and advanced Django Developer.
+    <br />
+    <a href="https://github.com/FalseG0d?tab=repositories"><strong>Explore Other Projects »</strong></a>
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/FalseG0d/AdvancedDjango/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/FalseG0d/AdvancedDjango/issues">Request Feature</a>
+  </p>
+</p>
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Getting Started](#getting-started)
+  * [Prerquisites](#prerquisites)
+* [Admin ID Password](#admin-id-password)
+  * [Built With](#built-with)
+  * [Video Lectures](#video-lectures)
+* [Authors](#authors)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
+
 
 ## Getting Started
 
 Simply Open the App or Feature you wish to learn by selecting a folder of your choosing.
 
-### Prerequisites
+1. Clone the repo
+
+```sh
+git clone https://github.com/FalseG0d/AdvancedDjango.git
+```
+
+2. Install Django Package
+
+```sh
+pip install django
+```
+
+## Prerequisites
 
 1. Python
-2. Django
+2. Pip
 
 ## Admin ID Password
 
@@ -39,6 +91,10 @@ Simply Open the App or Feature you wish to learn by selecting a folder of your c
 
 * **False God** - *Initial work* - [FalseG0d](https://github.com/FalseG0d)
 
+Your Name - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
+
+Project Link: [https://github.com/FalseG0d/PyQt5DownloadManager](https://github.com/FalseG0d/PyQt5DownloadManager)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -47,3 +103,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * **Django Documentation** - *Documentation* - [Documentation](https://github.com/FalseG0d)
 * **Inspiration** - *Inspiration* - [Inspiration](https://simpleisbetterthancomplex.com/)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/FalseG0d/AdvancedDjango.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/FalseG0d/AdvancedDjango.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/FalseG0d/AdvancedDjango.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/FalseG0d/AdvancedDjango.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/FalseG0d/AdvancedDjango.svg?style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[product-screenshot]: images/programs.png
