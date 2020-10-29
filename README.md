@@ -1,10 +1,12 @@
-# Advanced Django
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+# Advanced Django
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,10 +35,10 @@
 ## Table of Contents
 
 * [Getting Started](#getting-started)
-  * [Prerquisites](#prerquisites)
+* [Prerquisites](#prerquisites)
 * [Admin ID Password](#admin-id-password)
-  * [Built With](#built-with)
-  * [Video Lectures](#video-lectures)
+* [Built With](#built-with)
+* [Video Lectures](#video-lectures)
 * [Authors](#authors)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
