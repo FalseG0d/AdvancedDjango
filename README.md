@@ -34,7 +34,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 * [Getting Started](#getting-started)
 * [Prerquisites](#prerquisites)
