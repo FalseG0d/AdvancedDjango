@@ -31,10 +31,10 @@
 </p>
 
 
+![Product Name Screen Shot][product-screenshot]
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-![Product Name Screen Shot][product-screenshot]
 
 * [Getting Started](#getting-started)
 * [Prerquisites](#prerquisites)
