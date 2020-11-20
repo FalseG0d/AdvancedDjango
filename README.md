@@ -41,6 +41,7 @@
 * [Admin ID Password](#admin-id-password)
 * [Built With](#built-with)
 * [Video Lectures](#video-lectures)
+* [Project List](#project-list)
 * [Authors](#authors)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
@@ -90,6 +91,25 @@ pip install django
 * [Change Password](https://youtu.be/00sdVcuYki0) - Lecture 9
 * [Custom Login And Register](https://youtu.be/sD97NMs1l9s) - Lecture 10
 * [Chain Multiple Query Sets](https://youtu.be/WskpiwQrmTA) - Lecture 11
+
+## Project List
+
+* [Advanced Query](.\AdvancedQuery)
+* [Automatic Date Time](.\AutomaticDateTime)
+* [Blank Null](.\BlankNull)
+* [Chainable Query Set](.\ChainableQuerySet)
+* [Change Password](.\ChangePassword)
+* [Custom Login](.\CustomLogin)
+* [Django Messages](.\DjangoMessages)
+* [Django Recaptcha](.\DjangoRecaptcha)
+* [F_Function](.\F_Function)
+* [GetCreate](.\GetCreate)
+* [Get Current URL](.\GetCurrentURL)
+* [Humanize](.\Humanize)
+* [Merge Query Set](.\MergeQuerySet)
+* [Multiple Settings](.\MultipleSetting)
+* [Redirect Django](.\RedirectDjango)
+* [Unit Testing](.\UnitTesting)
 
 ## Authors
 
